@@ -1,4 +1,4 @@
-### Hi there 👋, I Am Abdulla Al Samin
+i### Hi there 👋, I Am Abdulla Al Samin
 #### Software Developer || Problem Solver
 ![Software Developer || Problem Solver](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -13,15 +13,4 @@ Skills:  HTML / CSS / PYTHON / DJANGO / DATABASE / PROBLEM SOLVING / C / C++ / D
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on Git hub 
 - 💬 Ask me about Software Developer 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devsamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100061968544346)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=devsamin)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamin)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devsamin&show_icons=true&count_private=true)  
 
