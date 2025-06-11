@@ -1,9 +1,41 @@
-Hi there 👋, I Am Abdulla Al Samin
-Software Developer || Problem Solver
+👋 Hi there, I’m Abdulla Al Samin — Software Developer | Problem Solver
 
-Hi! I’m Abdulla Al Samin. I’m currently in my 6th semester studying Computer Science at Bangladesh Sweden Polytechnic Institute. I have a deep passion for programming and technology, always striving to learn and improve my skills.
-I’m proficient in C, C++, Python, and JavaScript, with a solid understanding of Data Structures, Algorithms, and Databases. I also have hands-on experience in web development using HTML, CSS, and Django. Additionally, I’m well-versed in Git and GitHub for version control. Currently, I’m further enhancing my expertise in software development, focusing on building efficient and scalable applications.
-My goal is to become a software engineer, and I’m constantly looking for opportunities to grow and contribute. Let’s connect to discuss software development, tech projects, or collaboration opportunities!
+🎓 I’m currently in my 7th semester studying **Computer Science** at **Bangladesh Sweden Polytechnic Institute**.
 
+💻 I have a strong passion for programming and technology, always striving to improve my skills and build efficient, scalable applications.
 
+---
 
+🧠 Skills & Technologies
+
+**Languages & Programming:**  
+`C` | `C++` | `Python` | `JavaScript` | `OOP` | `Problem Solving` | `Data Structures` | `Algorithms`
+
+**Web Development:**  
+`HTML` | `CSS` | `Django` | `DRF` | `Node.js` | `Bootstrap` | `TailwindCSS` | Learning `React`
+
+**Databases & Tools:**  
+`SQL` | `PostgreSQL` | `Git` | `Vercel` | `Onrender`
+
+---
+
+## 🔭 About Me
+
+I’m proficient in **C, C++, Python, and JavaScript**, with solid knowledge of **Data Structures**, **Algorithms**, and **Databases**.  
+I have hands-on experience in **web development** using HTML, CSS, Django, and DRF. I also use **Git & GitHub** for version control and collaboration.
+
+🌱 Currently, I’m focusing on enhancing my skills in **software development**, learning React, and building real-world projects.
+
+🎯 **Goal:** Become a skilled **Software Engineer** and contribute to impactful tech solutions.
+
+🤝 Let's connect to talk about **tech**, **projects**, or **collaboration opportunities**!
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ Email: [abdullahalsamin@gmail.com](abdullahalsamin@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/abdullah-al-samin-2a6100354](https://linkedin.com/in/abdullah-al-samin-2a6100354)  
+- 🔗 GitHub: [github.com/devsamin](https://github.com/devsamin)
+
+---
